@@ -57,5 +57,23 @@ We implemented and evaluated the following models:
 - NumPy, OpenCV, scikit-learn, matplotlib
 - TensorFlow / Keras
 
-## 📂 Folder Structure
+## 📁 Folder & File Structure
+
+| File/Folder               | Description |
+|---------------------------|-------------|
+| `Main.ipynb`              | Summary notebook for all ML methods |
+| `VGG16.ipynb`             | Transfer learning using VGG16 |
+| `run_*`                   | Python scripts to train and evaluate models |
+| `*.joblib`                | Pretrained models (KNN, RF, SVM) |
+| `pca.pkl`, `scaler.pkl`   | Saved PCA and Scaler for preprocessing |
+| `result_*.txt`            | Evaluation reports (accuracy, metrics) |
+| `mean_val.py`             | Compute mean for image normalization |
+| `test_image/`             | Test images for inference |
+| `source_web_demo/`        | Code for web demo (Flask or Streamlit) |
+| `Statstic.xlsx`           | Accuracy comparison table |
+| `README.md`               | Project documentation |
+| `forweb.zip`              | Packaged files for demo/deployment |
+
+---
+
 
