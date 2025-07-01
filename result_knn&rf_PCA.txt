@@ -1,0 +1,399 @@
+orientations: 9, n_components: 50
+n_neighbors: 1, accuracy train: 0.9997879334110911, accuracy val: 0.6769725451397477
+n_neighbors: 2, accuracy train: 0.8348001272399533, accuracy val: 0.6547118476378927
+n_neighbors: 3, accuracy train: 0.8279079631004135, accuracy val: 0.6799406381399951
+n_neighbors: 4, accuracy train: 0.8073375039762486, accuracy val: 0.6868661884739056
+n_neighbors: 5, accuracy train: 0.7954617749973492, accuracy val: 0.6873608706406134
+n_neighbors: 6, accuracy train: 0.7863429116742657, accuracy val: 0.6947811031412318
+n_neighbors: 7, accuracy train: 0.7801929805959071, accuracy val: 0.6915656690576305
+n_neighbors: 8, accuracy train: 0.7748913158731842, accuracy val: 0.6955231263912935
+n_neighbors: 9, accuracy train: 0.7757395822288199, accuracy val: 0.6987385604748949
+n_neighbors: 10, accuracy train: 0.7728766832785494, accuracy val: 0.6967598318080633
+n_neighbors: 11, accuracy train: 0.76884741808928, accuracy val: 0.7012119713084344
+n_neighbors: 12, accuracy train: 0.7635457533665571, accuracy val: 0.6994805837249567
+n_neighbors: 13, accuracy train: 0.7610009542996501, accuracy val: 0.7017066534751423
+n_neighbors: 14, accuracy train: 0.7570777224048351, accuracy val: 0.7031906999752658
+n_neighbors: 15, accuracy train: 0.7573958222881985, accuracy val: 0.7081375216423448
+n_neighbors: 16, accuracy train: 0.7544268900434736, accuracy val: 0.6992332426416028
+n_neighbors: 17, accuracy train: 0.7554872229880183, accuracy val: 0.7002226069750186
+n_neighbors: 18, accuracy train: 0.7491252253207508, accuracy val: 0.702943358891912
+n_neighbors: 19, accuracy train: 0.7495493584985685, accuracy val: 0.6999752658916646
+n_neighbors: 20, accuracy train: 0.7485950588484784, accuracy val: 0.7019539945584962
+n_neighbors: 21, accuracy train: 0.7470045594316616, accuracy val: 0.7034380410586198
+n_neighbors: 22, accuracy train: 0.7447778602481179, accuracy val: 0.7022013356418502
+n_neighbors: 23, accuracy train: 0.7423390944756654, accuracy val: 0.6975018550581251
+n_neighbors: 24, accuracy train: 0.7429752942423921, accuracy val: 0.7022013356418502
+n_neighbors: 25, accuracy train: 0.7439295938924823, accuracy val: 0.7009646302250804
+n_neighbors: 26, accuracy train: 0.740854628353303, accuracy val: 0.6999752658916646
+n_neighbors: 27, accuracy train: 0.7397942954087583, accuracy val: 0.7017066534751423
+n_neighbors: 28, accuracy train: 0.7396882621143039, accuracy val: 0.7046747464753895
+n_neighbors: 29, accuracy train: 0.7402184285865762, accuracy val: 0.6992332426416028
+[KNN BEST] n_neighbors=15, val_accuracy=0.7081375216423448
+RandomForest: n_estimators=100, accuracy train: 0.9997879334110911, accuracy val: 0.716299777393025
+------------------------------------------------------------------------------------------------------------------------
+orientations: 9, n_components: 100
+n_neighbors: 1, accuracy train: 0.9997879334110911, accuracy val: 0.6688102893890675
+n_neighbors: 2, accuracy train: 0.8309829286395928, accuracy val: 0.6383873361365323
+n_neighbors: 3, accuracy train: 0.825469197327961, accuracy val: 0.6735097699727924
+n_neighbors: 4, accuracy train: 0.8041565051426148, accuracy val: 0.6824140489735345
+n_neighbors: 5, accuracy train: 0.7944014420528046, accuracy val: 0.6826613900568884
+n_neighbors: 6, accuracy train: 0.7861308450853568, accuracy val: 0.6831560722235963
+n_neighbors: 7, accuracy train: 0.775315449051002, accuracy val: 0.684887459807074
+n_neighbors: 8, accuracy train: 0.7691655179726434, accuracy val: 0.6900816225575068
+n_neighbors: 9, accuracy train: 0.7650302194889195, accuracy val: 0.6878555528073212
+n_neighbors: 10, accuracy train: 0.7604707878273778, accuracy val: 0.6908236458075686
+n_neighbors: 11, accuracy train: 0.7565475559325628, accuracy val: 0.6915656690576305
+n_neighbors: 12, accuracy train: 0.7511398579153854, accuracy val: 0.6994805837249567
+n_neighbors: 13, accuracy train: 0.7509277913264765, accuracy val: 0.6932970566411081
+n_neighbors: 14, accuracy train: 0.7478528257872972, accuracy val: 0.6962651496413554
+n_neighbors: 15, accuracy train: 0.7466864595482982, accuracy val: 0.693791738807816
+n_neighbors: 16, accuracy train: 0.7411727282366664, accuracy val: 0.6900816225575068
+n_neighbors: 17, accuracy train: 0.7415968614144841, accuracy val: 0.6960178085580014
+n_neighbors: 18, accuracy train: 0.7409606616477574, accuracy val: 0.69403907989117
+n_neighbors: 19, accuracy train: 0.7380977626974871, accuracy val: 0.69403907989117
+n_neighbors: 20, accuracy train: 0.7361891633973068, accuracy val: 0.6932970566411081
+n_neighbors: 21, accuracy train: 0.7336443643303997, accuracy val: 0.6928023744744002
+n_neighbors: 22, accuracy train: 0.7300392323189482, accuracy val: 0.6893395993074449
+n_neighbors: 23, accuracy train: 0.7285547661965858, accuracy val: 0.69403907989117
+n_neighbors: 24, accuracy train: 0.7283426996076768, accuracy val: 0.6898342814741528
+n_neighbors: 25, accuracy train: 0.7271763333686778, accuracy val: 0.6881028938906752
+n_neighbors: 26, accuracy train: 0.7263280670130421, accuracy val: 0.6913183279742765
+n_neighbors: 27, accuracy train: 0.7250556674795886, accuracy val: 0.6928023744744002
+n_neighbors: 28, accuracy train: 0.7249496341851341, accuracy val: 0.6913183279742765
+n_neighbors: 29, accuracy train: 0.7242074011239529, accuracy val: 0.6928023744744002
+[KNN BEST] n_neighbors=12, val_accuracy=0.6994805837249567
+RandomForest: n_estimators=100, accuracy train: 0.9997879334110911, accuracy val: 0.7031906999752658
+------------------------------------------------------------------------------------------------------------------------
+orientations: 9, n_components: 200
+n_neighbors: 1, accuracy train: 0.9997879334110911, accuracy val: 0.6601533514716794
+n_neighbors: 2, accuracy train: 0.8257872972113244, accuracy val: 0.6314617858026218
+n_neighbors: 3, accuracy train: 0.8151839677658785, accuracy val: 0.6569379173880782
+n_neighbors: 4, accuracy train: 0.7973703742975294, accuracy val: 0.662132080138511
+n_neighbors: 5, accuracy train: 0.7856006786130845, accuracy val: 0.6668315607222359
+n_neighbors: 6, accuracy train: 0.776481815290001, accuracy val: 0.6725204056393767
+n_neighbors: 7, accuracy train: 0.7693775845615524, accuracy val: 0.6749938164729161
+n_neighbors: 8, accuracy train: 0.7564415226381084, accuracy val: 0.6829087311402424
+n_neighbors: 9, accuracy train: 0.7563354893436539, accuracy val: 0.6843927776403661
+n_neighbors: 10, accuracy train: 0.7478528257872972, accuracy val: 0.6762305218896859
+n_neighbors: 11, accuracy train: 0.7448838935425723, accuracy val: 0.6829087311402424
+n_neighbors: 12, accuracy train: 0.742020994592302, accuracy val: 0.6819193668068266
+n_neighbors: 13, accuracy train: 0.741808928003393, accuracy val: 0.6836507543903042
+n_neighbors: 14, accuracy train: 0.7366132965751246, accuracy val: 0.6814246846401187
+n_neighbors: 15, accuracy train: 0.7322659315024918, accuracy val: 0.6791986148899333
+n_neighbors: 16, accuracy train: 0.7302512989078571, accuracy val: 0.6811773435567647
+n_neighbors: 17, accuracy train: 0.7263280670130421, accuracy val: 0.680435320306703
+n_neighbors: 18, accuracy train: 0.7232531014738628, accuracy val: 0.679693297056641
+n_neighbors: 19, accuracy train: 0.723995334535044, accuracy val: 0.6759831808063319
+n_neighbors: 20, accuracy train: 0.7208143357014103, accuracy val: 0.6730150878060845
+n_neighbors: 21, accuracy train: 0.7210264022903191, accuracy val: 0.6799406381399951
+n_neighbors: 22, accuracy train: 0.7179514367511398, accuracy val: 0.6779619094731635
+n_neighbors: 23, accuracy train: 0.7161488707454141, accuracy val: 0.675488498639624
+n_neighbors: 24, accuracy train: 0.7139221715618704, accuracy val: 0.6806826613900568
+n_neighbors: 25, accuracy train: 0.714982504506415, accuracy val: 0.6749938164729161
+n_neighbors: 26, accuracy train: 0.7132859717951436, accuracy val: 0.6764778629730398
+n_neighbors: 27, accuracy train: 0.7096808397836921, accuracy val: 0.6725204056393767
+n_neighbors: 28, accuracy train: 0.7075601738946029, accuracy val: 0.6700469948058373
+n_neighbors: 29, accuracy train: 0.7075601738946029, accuracy val: 0.6740044521395003
+[KNN BEST] n_neighbors=9, val_accuracy=0.6843927776403661
+RandomForest: n_estimators=100, accuracy train: 0.9997879334110911, accuracy val: 0.6920603512243384
+------------------------------------------------------------------------------------------------------------------------
+orientations: 9, n_components: 500
+n_neighbors: 1, accuracy train: 0.9997879334110911, accuracy val: 0.6482809794706901
+n_neighbors: 2, accuracy train: 0.8170925670660587, accuracy val: 0.621568142468464
+n_neighbors: 3, accuracy train: 0.8093521365708832, accuracy val: 0.6463022508038585
+n_neighbors: 4, accuracy train: 0.7811472802459972, accuracy val: 0.6485283205540441
+n_neighbors: 5, accuracy train: 0.7717103170395504, accuracy val: 0.657927281721494
+n_neighbors: 6, accuracy train: 0.7629095535998304, accuracy val: 0.6581746228048478
+n_neighbors: 7, accuracy train: 0.7542148234545647, accuracy val: 0.6524857778877071
+n_neighbors: 8, accuracy train: 0.7460502597815715, accuracy val: 0.6604006925550334
+n_neighbors: 9, accuracy train: 0.7396882621143039, accuracy val: 0.6626267623052189
+n_neighbors: 10, accuracy train: 0.7382037959919415, accuracy val: 0.6646054909720505
+n_neighbors: 11, accuracy train: 0.7349167638638533, accuracy val: 0.6604006925550334
+n_neighbors: 12, accuracy train: 0.727918566429859, accuracy val: 0.6574325995547861
+n_neighbors: 13, accuracy train: 0.7295090658466759, accuracy val: 0.6544645065545387
+n_neighbors: 14, accuracy train: 0.7243134344184073, accuracy val: 0.6559485530546624
+n_neighbors: 15, accuracy train: 0.7230410348849539, accuracy val: 0.6552065298046006
+n_neighbors: 16, accuracy train: 0.7208143357014103, accuracy val: 0.6524857778877071
+n_neighbors: 17, accuracy train: 0.7194359028735022, accuracy val: 0.6557012119713085
+n_neighbors: 18, accuracy train: 0.7173152369844131, accuracy val: 0.6594113282216176
+n_neighbors: 19, accuracy train: 0.7172092036899587, accuracy val: 0.65767994063814
+n_neighbors: 20, accuracy train: 0.7155126709786873, accuracy val: 0.6574325995547861
+n_neighbors: 21, accuracy train: 0.713816138267416, accuracy val: 0.6591639871382636
+n_neighbors: 22, accuracy train: 0.712649772028417, accuracy val: 0.6591639871382636
+n_neighbors: 23, accuracy train: 0.7107411727282367, accuracy val: 0.6606480336383873
+n_neighbors: 24, accuracy train: 0.7089386067225109, accuracy val: 0.6596586693049715
+n_neighbors: 25, accuracy train: 0.7066058742445128, accuracy val: 0.6611427158050952
+n_neighbors: 26, accuracy train: 0.7050153748276959, accuracy val: 0.65767994063814
+n_neighbors: 27, accuracy train: 0.7031067755275157, accuracy val: 0.6584219638882018
+n_neighbors: 28, accuracy train: 0.7016223094051532, accuracy val: 0.657927281721494
+n_neighbors: 29, accuracy train: 0.7010921429328809, accuracy val: 0.6594113282216176
+[KNN BEST] n_neighbors=10, val_accuracy=0.6646054909720505
+RandomForest: n_estimators=100, accuracy train: 0.9997879334110911, accuracy val: 0.6502597081375217
+------------------------------------------------------------------------------------------------------------------------
+========================================================================================================================
+orientations: 18, n_components: 50
+n_neighbors: 1, accuracy train: 0.9997879334110911, accuracy val: 0.6811773435567647
+n_neighbors: 2, accuracy train: 0.8346940939454989, accuracy val: 0.6539698243878308
+n_neighbors: 3, accuracy train: 0.8300286289895027, accuracy val: 0.6764778629730398
+n_neighbors: 4, accuracy train: 0.8079737037429753, accuracy val: 0.6836507543903042
+n_neighbors: 5, accuracy train: 0.7993850068921642, accuracy val: 0.6992332426416028
+n_neighbors: 6, accuracy train: 0.7888877107411727, accuracy val: 0.6999752658916646
+n_neighbors: 7, accuracy train: 0.7892058106245361, accuracy val: 0.6962651496413554
+n_neighbors: 8, accuracy train: 0.7834800127239954, accuracy val: 0.7024486767252041
+n_neighbors: 9, accuracy train: 0.7790266143569081, accuracy val: 0.7069008162255751
+n_neighbors: 10, accuracy train: 0.776481815290001, accuracy val: 0.7051694286420974
+n_neighbors: 11, accuracy train: 0.7758456155232744, accuracy val: 0.7086322038090527
+n_neighbors: 12, accuracy train: 0.7748913158731842, accuracy val: 0.7111056146425921
+n_neighbors: 13, accuracy train: 0.7746792492842752, accuracy val: 0.7145683898095474
+n_neighbors: 14, accuracy train: 0.76789311843919, accuracy val: 0.7148157308929013
+n_neighbors: 15, accuracy train: 0.7660905524334641, accuracy val: 0.7143210487261934
+n_neighbors: 16, accuracy train: 0.7638638532499205, accuracy val: 0.7083848627256988
+n_neighbors: 17, accuracy train: 0.7635457533665571, accuracy val: 0.7103635913925302
+n_neighbors: 18, accuracy train: 0.761213020888559, accuracy val: 0.7101162503091764
+n_neighbors: 19, accuracy train: 0.7615311207719224, accuracy val: 0.7046747464753895
+n_neighbors: 20, accuracy train: 0.7603647545329233, accuracy val: 0.7059114518921593
+n_neighbors: 21, accuracy train: 0.7552751563991094, accuracy val: 0.7066534751422211
+n_neighbors: 22, accuracy train: 0.7562294560491994, accuracy val: 0.7031906999752658
+n_neighbors: 23, accuracy train: 0.7545329233379281, accuracy val: 0.7101162503091764
+n_neighbors: 24, accuracy train: 0.7529424239211112, accuracy val: 0.7083848627256988
+n_neighbors: 25, accuracy train: 0.7517760576821122, accuracy val: 0.711352955725946
+n_neighbors: 26, accuracy train: 0.750821758032022, accuracy val: 0.7118476378926539
+n_neighbors: 27, accuracy train: 0.7485950588484784, accuracy val: 0.711352955725946
+n_neighbors: 28, accuracy train: 0.7479588590817516, accuracy val: 0.7118476378926539
+n_neighbors: 29, accuracy train: 0.7477467924928427, accuracy val: 0.7111056146425921
+[KNN BEST] n_neighbors=14, val_accuracy=0.7148157308929013
+RandomForest: n_estimators=100, accuracy train: 0.9997879334110911, accuracy val: 0.7081375216423448
+------------------------------------------------------------------------------------------------------------------------
+orientations: 18, n_components: 100
+n_neighbors: 1, accuracy train: 0.9997879334110911, accuracy val: 0.6720257234726688
+n_neighbors: 2, accuracy train: 0.833103594528682, accuracy val: 0.6425921345535494
+n_neighbors: 3, accuracy train: 0.8283320962782313, accuracy val: 0.675735839722978
+n_neighbors: 4, accuracy train: 0.8047927049093415, accuracy val: 0.6881028938906752
+n_neighbors: 5, accuracy train: 0.7982186406531651, accuracy val: 0.6883502349740291
+n_neighbors: 6, accuracy train: 0.7849644788463578, accuracy val: 0.6913183279742765
+n_neighbors: 7, accuracy train: 0.7769059484678189, accuracy val: 0.6947811031412318
+n_neighbors: 8, accuracy train: 0.7699077510338246, accuracy val: 0.6962651496413554
+n_neighbors: 9, accuracy train: 0.7686353515003711, accuracy val: 0.7004699480583725
+n_neighbors: 10, accuracy train: 0.7647121196055562, accuracy val: 0.7044274053920356
+n_neighbors: 11, accuracy train: 0.7636517866610115, accuracy val: 0.7031906999752658
+n_neighbors: 12, accuracy train: 0.7604707878273778, accuracy val: 0.7039327232253277
+n_neighbors: 13, accuracy train: 0.7579259887604708, accuracy val: 0.702943358891912
+n_neighbors: 14, accuracy train: 0.7540027568656558, accuracy val: 0.6989859015582488
+n_neighbors: 15, accuracy train: 0.7534725903933835, accuracy val: 0.6992332426416028
+n_neighbors: 16, accuracy train: 0.7477467924928427, accuracy val: 0.7019539945584962
+n_neighbors: 17, accuracy train: 0.7444597603647546, accuracy val: 0.7007172891417265
+n_neighbors: 18, accuracy train: 0.7453080267203902, accuracy val: 0.7036853821419737
+n_neighbors: 19, accuracy train: 0.7438235605980278, accuracy val: 0.6977491961414791
+n_neighbors: 20, accuracy train: 0.7430813275368465, accuracy val: 0.7007172891417265
+n_neighbors: 21, accuracy train: 0.7402184285865762, accuracy val: 0.6999752658916646
+n_neighbors: 22, accuracy train: 0.7385218958753048, accuracy val: 0.6965124907247093
+n_neighbors: 23, accuracy train: 0.7379917294030326, accuracy val: 0.6962651496413554
+n_neighbors: 24, accuracy train: 0.7373555296363058, accuracy val: 0.6962651496413554
+n_neighbors: 25, accuracy train: 0.7373555296363058, accuracy val: 0.697996537224833
+n_neighbors: 26, accuracy train: 0.7360831301028523, accuracy val: 0.7022013356418502
+n_neighbors: 27, accuracy train: 0.734386597391581, accuracy val: 0.7017066534751423
+n_neighbors: 28, accuracy train: 0.7345986639804899, accuracy val: 0.697996537224833
+n_neighbors: 29, accuracy train: 0.7307814653801293, accuracy val: 0.7007172891417265
+[KNN BEST] n_neighbors=10, val_accuracy=0.7044274053920356
+RandomForest: n_estimators=100, accuracy train: 0.9997879334110911, accuracy val: 0.702943358891912
+------------------------------------------------------------------------------------------------------------------------
+orientations: 18, n_components: 200
+n_neighbors: 1, accuracy train: 0.9997879334110911, accuracy val: 0.6660895374721741
+n_neighbors: 2, accuracy train: 0.8253631640335065, accuracy val: 0.6401187237200099
+n_neighbors: 3, accuracy train: 0.8214399321386916, accuracy val: 0.6700469948058373
+n_neighbors: 4, accuracy train: 0.7980065740642561, accuracy val: 0.6651001731387584
+n_neighbors: 5, accuracy train: 0.7864489449687202, accuracy val: 0.6752411575562701
+n_neighbors: 6, accuracy train: 0.7740430495175485, accuracy val: 0.6747464753895622
+n_neighbors: 7, accuracy train: 0.7687413847948256, accuracy val: 0.6762305218896859
+n_neighbors: 8, accuracy train: 0.7577139221715619, accuracy val: 0.6767252040563938
+n_neighbors: 9, accuracy train: 0.7560173894602905, accuracy val: 0.680187979223349
+n_neighbors: 10, accuracy train: 0.7502915915597498, accuracy val: 0.6814246846401187
+n_neighbors: 11, accuracy train: 0.7440356271869367, accuracy val: 0.680435320306703
+n_neighbors: 12, accuracy train: 0.7417028947089386, accuracy val: 0.6851348008904279
+n_neighbors: 13, accuracy train: 0.7374615629307603, accuracy val: 0.6816720257234726
+n_neighbors: 14, accuracy train: 0.7326900646803096, accuracy val: 0.6826613900568884
+n_neighbors: 15, accuracy train: 0.733220231152582, accuracy val: 0.680187979223349
+n_neighbors: 16, accuracy train: 0.7305693987912204, accuracy val: 0.680435320306703
+n_neighbors: 17, accuracy train: 0.7333262644470364, accuracy val: 0.6784565916398714
+n_neighbors: 18, accuracy train: 0.7285547661965858, accuracy val: 0.6814246846401187
+n_neighbors: 19, accuracy train: 0.7254798006574065, accuracy val: 0.6787039327232254
+n_neighbors: 20, accuracy train: 0.7247375675962252, accuracy val: 0.6782092505565175
+n_neighbors: 21, accuracy train: 0.7228289682960449, accuracy val: 0.6791986148899333
+n_neighbors: 22, accuracy train: 0.7245255010073163, accuracy val: 0.6749938164729161
+n_neighbors: 23, accuracy train: 0.7191178029901389, accuracy val: 0.6742517932228543
+n_neighbors: 24, accuracy train: 0.7195419361679567, accuracy val: 0.6784565916398714
+n_neighbors: 25, accuracy train: 0.7168911038065953, accuracy val: 0.6764778629730398
+n_neighbors: 26, accuracy train: 0.7160428374509596, accuracy val: 0.6772198862231017
+n_neighbors: 27, accuracy train: 0.7151945710953239, accuracy val: 0.679693297056641
+n_neighbors: 28, accuracy train: 0.7132859717951436, accuracy val: 0.6779619094731635
+n_neighbors: 29, accuracy train: 0.7093627399003287, accuracy val: 0.6806826613900568
+[KNN BEST] n_neighbors=12, val_accuracy=0.6851348008904279
+RandomForest: n_estimators=100, accuracy train: 0.9997879334110911, accuracy val: 0.702696017808558
+------------------------------------------------------------------------------------------------------------------------
+orientations: 18, n_components: 500
+n_neighbors: 1, accuracy train: 0.9997879334110911, accuracy val: 0.6472916151372743
+n_neighbors: 2, accuracy train: 0.8071254373873397, accuracy val: 0.6190947316349246
+n_neighbors: 3, accuracy train: 0.8095642031597922, accuracy val: 0.6549591887212466
+n_neighbors: 4, accuracy train: 0.7844343123740855, accuracy val: 0.6537224833044769
+n_neighbors: 5, accuracy train: 0.7762697487010921, accuracy val: 0.6628741033885729
+n_neighbors: 6, accuracy train: 0.7638638532499205, accuracy val: 0.6566905763047242
+n_neighbors: 7, accuracy train: 0.7584561552327431, accuracy val: 0.6616373979718031
+n_neighbors: 8, accuracy train: 0.753578623687838, accuracy val: 0.6653475142221122
+n_neighbors: 9, accuracy train: 0.7487010921429329, accuracy val: 0.6690576304724215
+n_neighbors: 10, accuracy train: 0.7425511610645743, accuracy val: 0.6749938164729161
+n_neighbors: 11, accuracy train: 0.739476195525395, accuracy val: 0.6737571110561464
+n_neighbors: 12, accuracy train: 0.7334322977414909, accuracy val: 0.6660895374721741
+n_neighbors: 13, accuracy train: 0.7300392323189482, accuracy val: 0.6673262428889438
+n_neighbors: 14, accuracy train: 0.7299331990244937, accuracy val: 0.6690576304724215
+n_neighbors: 15, accuracy train: 0.7233591347683173, accuracy val: 0.6683156072223596
+n_neighbors: 16, accuracy train: 0.7230410348849539, accuracy val: 0.6690576304724215
+n_neighbors: 17, accuracy train: 0.7210264022903191, accuracy val: 0.6648528320554044
+n_neighbors: 18, accuracy train: 0.7203902025235924, accuracy val: 0.6653475142221122
+n_neighbors: 19, accuracy train: 0.7146644046230516, accuracy val: 0.6648528320554044
+n_neighbors: 20, accuracy train: 0.7166790372176863, accuracy val: 0.6680682661390057
+n_neighbors: 21, accuracy train: 0.7119075389672357, accuracy val: 0.671283700222607
+n_neighbors: 22, accuracy train: 0.7141342381507794, accuracy val: 0.6675735839722978
+n_neighbors: 23, accuracy train: 0.7120135722616902, accuracy val: 0.666336878555528
+n_neighbors: 24, accuracy train: 0.7090446400169653, accuracy val: 0.6688102893890675
+n_neighbors: 25, accuracy train: 0.709892906372601, accuracy val: 0.6655948553054662
+n_neighbors: 26, accuracy train: 0.707348107305694, accuracy val: 0.6690576304724215
+n_neighbors: 27, accuracy train: 0.7075601738946029, accuracy val: 0.6670789018055899
+n_neighbors: 28, accuracy train: 0.7094687731947832, accuracy val: 0.6693049715557754
+n_neighbors: 29, accuracy train: 0.7090446400169653, accuracy val: 0.6685629483057136
+[KNN BEST] n_neighbors=10, val_accuracy=0.6749938164729161
+RandomForest: n_estimators=100, accuracy train: 0.9997879334110911, accuracy val: 0.6547118476378927
+------------------------------------------------------------------------------------------------------------------------
+========================================================================================================================
+orientations: 36, n_components: 50
+n_neighbors: 1, accuracy train: 0.9997879334110911, accuracy val: 0.6829087311402424
+n_neighbors: 2, accuracy train: 0.8360725267734068, accuracy val: 0.6606480336383873
+n_neighbors: 3, accuracy train: 0.8326794613508641, accuracy val: 0.6791986148899333
+n_neighbors: 4, accuracy train: 0.811154702576609, accuracy val: 0.684887459807074
+n_neighbors: 5, accuracy train: 0.8028841056091612, accuracy val: 0.6895869403907989
+n_neighbors: 6, accuracy train: 0.7957798748807126, accuracy val: 0.6930497155577542
+n_neighbors: 7, accuracy train: 0.7903721768635351, accuracy val: 0.7044274053920356
+n_neighbors: 8, accuracy train: 0.7865549782631747, accuracy val: 0.7019539945584962
+n_neighbors: 9, accuracy train: 0.7833739794295409, accuracy val: 0.7130843433094237
+n_neighbors: 10, accuracy train: 0.7773300816456368, accuracy val: 0.7103635913925302
+n_neighbors: 11, accuracy train: 0.774149082812003, accuracy val: 0.7054167697254514
+n_neighbors: 12, accuracy train: 0.770013784328279, accuracy val: 0.702943358891912
+n_neighbors: 13, accuracy train: 0.7672569186724632, accuracy val: 0.7044274053920356
+n_neighbors: 14, accuracy train: 0.7664086523168275, accuracy val: 0.7086322038090527
+n_neighbors: 15, accuracy train: 0.762379387127558, accuracy val: 0.7076428394756369
+n_neighbors: 16, accuracy train: 0.7630155868942848, accuracy val: 0.7044274053920356
+n_neighbors: 17, accuracy train: 0.7587742551161064, accuracy val: 0.707395498392283
+n_neighbors: 18, accuracy train: 0.7583501219382887, accuracy val: 0.7103635913925302
+n_neighbors: 19, accuracy train: 0.7575018555826529, accuracy val: 0.7098689092258225
+n_neighbors: 20, accuracy train: 0.7569716891103807, accuracy val: 0.7046747464753895
+n_neighbors: 21, accuracy train: 0.7566535892270173, accuracy val: 0.7133316843927776
+n_neighbors: 22, accuracy train: 0.750821758032022, accuracy val: 0.7108582735592381
+n_neighbors: 23, accuracy train: 0.7517760576821122, accuracy val: 0.7078901805589909
+n_neighbors: 24, accuracy train: 0.748489025554024, accuracy val: 0.707395498392283
+n_neighbors: 25, accuracy train: 0.7479588590817516, accuracy val: 0.7059114518921593
+n_neighbors: 26, accuracy train: 0.7488071254373874, accuracy val: 0.7061587929755132
+n_neighbors: 27, accuracy train: 0.7487010921429329, accuracy val: 0.702943358891912
+n_neighbors: 28, accuracy train: 0.7457321598982081, accuracy val: 0.7091268859757606
+n_neighbors: 29, accuracy train: 0.7450959601314813, accuracy val: 0.7078901805589909
+[KNN BEST] n_neighbors=21, val_accuracy=0.7133316843927776
+RandomForest: n_estimators=100, accuracy train: 0.9997879334110911, accuracy val: 0.7197625525599802
+------------------------------------------------------------------------------------------------------------------------
+orientations: 36, n_components: 100
+n_neighbors: 1, accuracy train: 0.9997879334110911, accuracy val: 0.675488498639624
+n_neighbors: 2, accuracy train: 0.8374509596013148, accuracy val: 0.6418501113034875
+n_neighbors: 3, accuracy train: 0.8269536634503234, accuracy val: 0.6863715063071977
+n_neighbors: 4, accuracy train: 0.8073375039762486, accuracy val: 0.6861241652238437
+n_neighbors: 5, accuracy train: 0.7949316085250768, accuracy val: 0.6885975760573831
+n_neighbors: 6, accuracy train: 0.7850705121408122, accuracy val: 0.698243878308187
+n_neighbors: 7, accuracy train: 0.7804050471848161, accuracy val: 0.6989859015582488
+n_neighbors: 8, accuracy train: 0.7719223836284593, accuracy val: 0.6994805837249567
+n_neighbors: 9, accuracy train: 0.770225850917188, accuracy val: 0.6992332426416028
+n_neighbors: 10, accuracy train: 0.7636517866610115, accuracy val: 0.702696017808558
+n_neighbors: 11, accuracy train: 0.763757819955466, accuracy val: 0.6989859015582488
+n_neighbors: 12, accuracy train: 0.7602587212384688, accuracy val: 0.698243878308187
+n_neighbors: 13, accuracy train: 0.757289788993744, accuracy val: 0.7007172891417265
+n_neighbors: 14, accuracy train: 0.7554872229880183, accuracy val: 0.6967598318080633
+n_neighbors: 15, accuracy train: 0.7541087901601102, accuracy val: 0.6987385604748949
+n_neighbors: 16, accuracy train: 0.7536846569822925, accuracy val: 0.6962651496413554
+n_neighbors: 17, accuracy train: 0.7481709256706606, accuracy val: 0.698243878308187
+n_neighbors: 18, accuracy train: 0.7470045594316616, accuracy val: 0.6950284442245857
+n_neighbors: 19, accuracy train: 0.7454140600148447, accuracy val: 0.6970071728914172
+n_neighbors: 20, accuracy train: 0.7429752942423921, accuracy val: 0.6962651496413554
+n_neighbors: 21, accuracy train: 0.7405365284699396, accuracy val: 0.69403907989117
+n_neighbors: 22, accuracy train: 0.7403244618810306, accuracy val: 0.6947811031412318
+n_neighbors: 23, accuracy train: 0.7404304951754851, accuracy val: 0.69403907989117
+n_neighbors: 24, accuracy train: 0.7390520623475771, accuracy val: 0.6967598318080633
+n_neighbors: 25, accuracy train: 0.7399003287032128, accuracy val: 0.6955231263912935
+n_neighbors: 26, accuracy train: 0.7411727282366664, accuracy val: 0.698243878308187
+n_neighbors: 27, accuracy train: 0.7349167638638533, accuracy val: 0.6989859015582488
+n_neighbors: 28, accuracy train: 0.7329021312692185, accuracy val: 0.6989859015582488
+n_neighbors: 29, accuracy train: 0.7322659315024918, accuracy val: 0.6992332426416028
+[KNN BEST] n_neighbors=10, val_accuracy=0.702696017808558
+RandomForest: n_estimators=100, accuracy train: 0.9997879334110911, accuracy val: 0.7081375216423448
+------------------------------------------------------------------------------------------------------------------------
+orientations: 36, n_components: 200
+n_neighbors: 1, accuracy train: 0.9997879334110911, accuracy val: 0.662132080138511
+n_neighbors: 2, accuracy train: 0.8315130951118651, accuracy val: 0.6349245609695771
+n_neighbors: 3, accuracy train: 0.8196373661329658, accuracy val: 0.6626267623052189
+n_neighbors: 4, accuracy train: 0.7935531756971689, accuracy val: 0.6604006925550334
+n_neighbors: 5, accuracy train: 0.7823136464849962, accuracy val: 0.6670789018055899
+n_neighbors: 6, accuracy train: 0.7718163503340049, accuracy val: 0.6744991343062082
+n_neighbors: 7, accuracy train: 0.7670448520835542, accuracy val: 0.6732624288894385
+n_neighbors: 8, accuracy train: 0.7578199554660163, accuracy val: 0.6762305218896859
+n_neighbors: 9, accuracy train: 0.7578199554660163, accuracy val: 0.6789512738065793
+n_neighbors: 10, accuracy train: 0.7477467924928427, accuracy val: 0.6811773435567647
+n_neighbors: 11, accuracy train: 0.7460502597815715, accuracy val: 0.6829087311402424
+n_neighbors: 12, accuracy train: 0.7413847948255752, accuracy val: 0.6806826613900568
+n_neighbors: 13, accuracy train: 0.7351288304527621, accuracy val: 0.6777145683898096
+n_neighbors: 14, accuracy train: 0.7347046972749444, accuracy val: 0.675735839722978
+n_neighbors: 15, accuracy train: 0.7326900646803096, accuracy val: 0.6740044521395003
+n_neighbors: 16, accuracy train: 0.731841798324674, accuracy val: 0.6791986148899333
+n_neighbors: 17, accuracy train: 0.7316297317357651, accuracy val: 0.680435320306703
+n_neighbors: 18, accuracy train: 0.7263280670130421, accuracy val: 0.6782092505565175
+n_neighbors: 19, accuracy train: 0.725373767362952, accuracy val: 0.6809300024734108
+n_neighbors: 20, accuracy train: 0.7207083024069558, accuracy val: 0.6789512738065793
+n_neighbors: 21, accuracy train: 0.7185876365178666, accuracy val: 0.6819193668068266
+n_neighbors: 22, accuracy train: 0.7179514367511398, accuracy val: 0.6791986148899333
+n_neighbors: 23, accuracy train: 0.7169971371010497, accuracy val: 0.6777145683898096
+n_neighbors: 24, accuracy train: 0.7158307708620507, accuracy val: 0.6799406381399951
+n_neighbors: 25, accuracy train: 0.7161488707454141, accuracy val: 0.6772198862231017
+n_neighbors: 26, accuracy train: 0.7144523380341428, accuracy val: 0.6829087311402424
+n_neighbors: 27, accuracy train: 0.7137101049729615, accuracy val: 0.6791986148899333
+n_neighbors: 28, accuracy train: 0.7129678719117803, accuracy val: 0.6779619094731635
+n_neighbors: 29, accuracy train: 0.7102110062559643, accuracy val: 0.6767252040563938
+[KNN BEST] n_neighbors=11, val_accuracy=0.6829087311402424
+RandomForest: n_estimators=100, accuracy train: 0.9997879334110911, accuracy val: 0.7004699480583725
+------------------------------------------------------------------------------------------------------------------------
+orientations: 36, n_components: 500
+n_neighbors: 1, accuracy train: 0.9997879334110911, accuracy val: 0.6564432352213703
+n_neighbors: 2, accuracy train: 0.8083978369207931, accuracy val: 0.63071976255256
+n_neighbors: 3, accuracy train: 0.8110486692821546, accuracy val: 0.6611427158050952
+n_neighbors: 4, accuracy train: 0.7870851447354469, accuracy val: 0.6683156072223596
+n_neighbors: 5, accuracy train: 0.7758456155232744, accuracy val: 0.6675735839722978
+n_neighbors: 6, accuracy train: 0.7659845191390097, accuracy val: 0.6784565916398714
+n_neighbors: 7, accuracy train: 0.7607888877107412, accuracy val: 0.6759831808063319
+n_neighbors: 8, accuracy train: 0.7516700243876577, accuracy val: 0.6685629483057136
+n_neighbors: 9, accuracy train: 0.748276958965115, accuracy val: 0.6722730645560228
+n_neighbors: 10, accuracy train: 0.7478528257872972, accuracy val: 0.671531041305961
+n_neighbors: 11, accuracy train: 0.7443537270703001, accuracy val: 0.6735097699727924
+n_neighbors: 12, accuracy train: 0.7402184285865762, accuracy val: 0.6752411575562701
+n_neighbors: 13, accuracy train: 0.7371434630473969, accuracy val: 0.6791986148899333
+n_neighbors: 14, accuracy train: 0.7337503976248542, accuracy val: 0.6720257234726688
+n_neighbors: 15, accuracy train: 0.7314176651468561, accuracy val: 0.6720257234726688
+n_neighbors: 16, accuracy train: 0.7269642667797689, accuracy val: 0.6740044521395003
+n_neighbors: 17, accuracy train: 0.7260099671296787, accuracy val: 0.6752411575562701
+n_neighbors: 18, accuracy train: 0.7256918672463153, accuracy val: 0.6744991343062082
+n_neighbors: 19, accuracy train: 0.7233591347683173, accuracy val: 0.6764778629730398
+n_neighbors: 20, accuracy train: 0.7218746686459548, accuracy val: 0.6762305218896859
+n_neighbors: 21, accuracy train: 0.7213445021736825, accuracy val: 0.675735839722978
+n_neighbors: 22, accuracy train: 0.721450535468137, accuracy val: 0.6740044521395003
+n_neighbors: 23, accuracy train: 0.7225108684126815, accuracy val: 0.6759831808063319
+n_neighbors: 24, accuracy train: 0.7196479694624112, accuracy val: 0.675488498639624
+n_neighbors: 25, accuracy train: 0.7197540027568656, accuracy val: 0.6769725451397477
+n_neighbors: 26, accuracy train: 0.7168911038065953, accuracy val: 0.6740044521395003
+n_neighbors: 27, accuracy train: 0.7167850705121408, accuracy val: 0.6764778629730398
+n_neighbors: 28, accuracy train: 0.7157247375675962, accuracy val: 0.6762305218896859
+n_neighbors: 29, accuracy train: 0.7118015056727812, accuracy val: 0.6762305218896859
+[KNN BEST] n_neighbors=13, val_accuracy=0.6791986148899333
+RandomForest: n_estimators=100, accuracy train: 0.9997879334110911, accuracy val: 0.6616373979718031
+------------------------------------------------------------------------------------------------------------------------
+========================================================================================================================
